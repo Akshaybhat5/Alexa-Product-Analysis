@@ -4,6 +4,7 @@ Amazon Alexa, also known simply as Alexa, is a virtual assistant AI technology d
 
 Amazon Alexa is a popular product among many countries around the globe. Being a data scientist, it's always a pleasure to analyze product reviews and customer feedback. In this model, I've analyzed how Amazon Alexa is correlated with rating, length of individual reviews, feedback. I've analyzed which Alexa designs are more in trend products and their customer satisfaction review length with unsatisfied customer review length.
 I've used Tokenization and Countvectorizer to clean the text and to convert the text into a bunch of numbers. These texture converted numbers are fed to the model to predict customers satisfaction. Logistic Regression, Naive Bayes, and RandomForest Classifier are the algorithms used.
+Hereunder are some of the analysis capture,
 
 <img width="860" alt="Screenshot 2021-05-26 at 6 19 19 PM" src="https://user-images.githubusercontent.com/35285632/119662813-a7c89400-bde6-11eb-9081-16f8d69cd216.png">
 <img width="1161" alt="Screenshot 2021-05-26 at 6 19 08 PM" src="https://user-images.githubusercontent.com/35285632/119662821-aa2aee00-bde6-11eb-8bdf-b0358b2f2b46.png">
